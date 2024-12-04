@@ -20,3 +20,10 @@ Progress Report 1/~WRL0418.tmp
 Progress Report 1/EGM701 - Progress Report 1.docx
 Progress Report 1/~$M701 - Progress Report 1.docx
 Progress Report 1/~WRL1008.tmp
+/SWIR_Data
+SWIR_diff_output.tiff
+Sentinel-2_truecolourMBMP.Tiff
+Sentinel-2_no_emissionMBMP.Tiff
+Sentinel-2_active_emissionMBMP.Tiff
+.ipynb_checkpoints/S2_Plume_Finder-checkpoint.ipynb
+.ipynb_checkpoints/S2_Plume_Finder-checkpoint.ipynb
