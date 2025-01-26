@@ -7,7 +7,6 @@ Editing files for how to guide/flowchart.odp
 Editing files for how to guide/EGM722 - How to guide Nick Kinsella.pdf
 How to Guide/EGM701 - How to guide Nick Kinsella.docx
 /Sentinel 2 Multi-Band-Multi-Pass
-/Varon methane detection code
 Progress Report 1/EGM701 - Progress Report .docx
 Progress Report 1/~$M701 - Progress Report .docx
 Progress Report 1/~WRL1106.tmp
@@ -51,3 +50,55 @@ Data/Individual_Plume_Boundings.csv
 Editing files for how to guide/field_map_no_labels.jpg
 Editing files for how to guide/~$EGM722 graphics.ppt
 /Thesis report
+SWIR_diff_4326.tiff.aux.xml
+Varon methane detection code/__MACOSX/s2_ch4_code_share/._.DS_Store
+Varon methane detection code/__MACOSX/s2_ch4_code_share/._hapi.py
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._ch4.dat
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._co2.dat
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._h2o.dat
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._pressure.dat
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._SUNp01_4000_to_7000.txt
+Varon methane detection code/__MACOSX/s2_ch4_code_share/aux_data/._temperature.dat
+Varon methane detection code/s2_ch4_code_share/.DS_Store
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/demonstration-checkpoint.ipynb
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/radtran-checkpoint.py
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/radtranpy-checkpoint.ipynb
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/README-checkpoint.txt
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/setup-checkpoint.py
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/setuppy-checkpoint.ipynb
+Varon methane detection code/s2_ch4_code_share/SWIR_diff_mean.Tiff.aux.xml
+Varon methane detection code/s2_ch4_code_share/setuppy.ipynb
+Varon methane detection code/s2_ch4_code_share/setup.py
+Varon methane detection code/s2_ch4_code_share/Sentinel-2_active_emissionMBMP.Tiff.aux.xml
+Varon methane detection code/s2_ch4_code_share/radtranpy.ipynb
+Varon methane detection code/s2_ch4_code_share/plume_mask.tiff
+Varon methane detection code/s2_ch4_code_share/Methane_Output.tiff.aux.xml
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_wave_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_wave_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_temp_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_temp_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_press_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_press_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_h2o_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_h2o_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_co2_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_co2_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_ch4_hapi_S2A_band12.npy
+Varon methane detection code/s2_ch4_code_share/hapi_data/abs_ch4_hapi_S2A_band11.npy
+Varon methane detection code/s2_ch4_code_share/H2O.header
+Varon methane detection code/s2_ch4_code_share/H2O.data
+Varon methane detection code/s2_ch4_code_share/CO2.header
+Varon methane detection code/s2_ch4_code_share/CO2.data
+Varon methane detection code/s2_ch4_code_share/CH4_Concentration.tiff
+Varon methane detection code/s2_ch4_code_share/CH4.header
+Varon methane detection code/s2_ch4_code_share/CH4.data
+Varon methane detection code/s2_ch4_code_share/aux_data/temperature.dat
+Varon methane detection code/s2_ch4_code_share/aux_data/SUNp01_4000_to_7000.txt
+Varon methane detection code/s2_ch4_code_share/aux_data/pressure.dat
+Varon methane detection code/s2_ch4_code_share/aux_data/h2o.dat
+Varon methane detection code/s2_ch4_code_share/aux_data/co2.dat
+Varon methane detection code/s2_ch4_code_share/aux_data/ch4.dat
+Varon methane detection code/s2_ch4_code_share/__pycache__/setup.cpython-312.pyc
+Varon methane detection code/s2_ch4_code_share/__pycache__/radtran.cpython-312.pyc
+Varon methane detection code/s2_ch4_code_share/__pycache__/hapi.cpython-312.pyc
+Varon methane detection code/s2_ch4_code_share/.ipynb_checkpoints/S2_IME_Measurement-checkpoint.ipynb
