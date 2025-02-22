@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "known_point_sources1",
+"name": "known_point_sources2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "easting": null, "northing": null, "source": null }, "geometry": { "type": "Point", "coordinates": [ 5.967122477188807, 31.617335592957854 ] } },
@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "easting": null, "northing": null, "source": null }, "geometry": { "type": "Point", "coordinates": [ 5.942278197383072, 31.756944971520188 ] } },
 { "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 6.000797319947514, 31.76832385956002 ] } },
 { "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 6.010888463361309, 31.797475450765319 ] } },
-{ "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 5.995135559917967, 31.777620141199915 ] } },
+{ "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 5.995667116417738, 31.77806507403514 ] } },
 { "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 5.905403456795759, 31.658343339904356 ] } },
 { "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 6.169153575972498, 31.756867986670237 ] } },
 { "type": "Feature", "properties": { "easting": 0, "northing": 0, "source": null }, "geometry": { "type": "Point", "coordinates": [ 6.173279540393672, 31.864000204848438 ] } },
