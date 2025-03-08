@@ -1,23 +1,22 @@
-name: Algeria_Methane_Plume_Detection
+name: sentinel2-analysis
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.12.2 # The tool's programming language
-  - jupyterlab=4.1.4 # Interactive computing environment
-  - folium=0.16.0 # Generates interactive maps
-  - pandas=2.2.1 # Data manipulation and analysis
-  - matplotlib=3.8.3 # Data visualization
-  - openeo=0.28.0 # OpenEO API for Earth observation
-  - rasterio=1.3.9 # Read/write raster datasets
-  - numpy=1.26.4 # Numerical computations
-  - requests=2.31.0 # HTTP requests library
-  - geopandas=0.14.3 # Geospatial data handling
-  - shapely=2.0.3 # Geometric objects
-  - rasterstats=0.19.0 # Raster statistics
-  - scikit-image=0.21.0 # Image processing
-  - ipython=8.15.0 # Interactive computing for Jupyter
-  - pillow=10.0.0 # Python Imaging Library (PIL) for image processing
-  - scipy=1.11.3 # Scientific computations, including ndimage
-  - scikit-learn=1.3.0 # Additional utilities for scientific computations
-  - imageio=2.31.1 # Image input/output
+  - python=3.9
+  - openeo
+  - requests
+  - pandas
+  - numpy
+  - geopandas
+  - rasterio
+  - folium
+  - matplotlib
+  - cdsapi
+  - xarray
+  - scipy
+  - shapely
+  - scikit-learn
+  - xgboost
+  - netcdf4
+  - h5netcdf
