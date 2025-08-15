@@ -1,6 +1,6 @@
 # Setup Guide
 
-Welcome to the setup guide for the Remote Landfill Gas Monitoring Tools. This guide will walk you through the necessary steps to set up and configure the environment for working with this project. 
+Welcome to the setup guide for CH4 Sentinel. This guide will walk you through the necessary steps to set up and configure the environment for working with this project. 
 
 # Contents
 
