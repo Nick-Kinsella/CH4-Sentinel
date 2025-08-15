@@ -20,3 +20,4 @@ dependencies:
   - xgboost
   - netcdf4
   - h5netcdf
+  - geopy
